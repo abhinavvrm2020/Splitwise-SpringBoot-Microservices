@@ -1,0 +1,32 @@
+
+{
+java:S1488j"`Immediately return this expression instead of assigning it to the temporary variable "response".(õôùÿÿÿÿ
+|
+java:S1488‰"`Immediately return this expression instead of assigning it to the temporary variable "response".(áÂ¬çıÿÿÿÿ
+W
+java:S4973U"<Strings and Boxed types should be compared using "equals()".(¸Æñ•úÿÿÿÿ
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ü×§§øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç’¯úÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¦÷ùøÿÿÿÿ
+W
+java:S1126("AReplace this if-then-else statement by a single return statement.(Òì÷¿
+c	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆï¶µ
+\
+java:S1126@"AReplace this if-then-else statement by a single return statement.(°şƒâúÿÿÿÿ
+T
+java:S1854G"9Remove this useless assignment to local variable "check".(¿ğßúÿÿÿÿ
+E
+java:S1481G"*Remove this unused "check" local variable.(¿ğßúÿÿÿÿ
+J
+java:S1172Œ".Remove this unused method parameter "request".(×Ÿòìşÿÿÿÿ
